@@ -1,0 +1,15 @@
+G:\Truenary intern\Designpattern1\Designpattern1\bin\Debug\net7.0\Designpattern1.exe
+G:\Truenary intern\Designpattern1\Designpattern1\bin\Debug\net7.0\Designpattern1.deps.json
+G:\Truenary intern\Designpattern1\Designpattern1\bin\Debug\net7.0\Designpattern1.runtimeconfig.json
+G:\Truenary intern\Designpattern1\Designpattern1\bin\Debug\net7.0\Designpattern1.dll
+G:\Truenary intern\Designpattern1\Designpattern1\bin\Debug\net7.0\Designpattern1.pdb
+G:\Truenary intern\Designpattern1\Designpattern1\obj\Debug\net7.0\Designpattern1.csproj.AssemblyReference.cache
+G:\Truenary intern\Designpattern1\Designpattern1\obj\Debug\net7.0\Designpattern1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Truenary intern\Designpattern1\Designpattern1\obj\Debug\net7.0\Designpattern1.AssemblyInfoInputs.cache
+G:\Truenary intern\Designpattern1\Designpattern1\obj\Debug\net7.0\Designpattern1.AssemblyInfo.cs
+G:\Truenary intern\Designpattern1\Designpattern1\obj\Debug\net7.0\Designpattern1.csproj.CoreCompileInputs.cache
+G:\Truenary intern\Designpattern1\Designpattern1\obj\Debug\net7.0\Designpattern1.dll
+G:\Truenary intern\Designpattern1\Designpattern1\obj\Debug\net7.0\refint\Designpattern1.dll
+G:\Truenary intern\Designpattern1\Designpattern1\obj\Debug\net7.0\Designpattern1.pdb
+G:\Truenary intern\Designpattern1\Designpattern1\obj\Debug\net7.0\Designpattern1.genruntimeconfig.cache
+G:\Truenary intern\Designpattern1\Designpattern1\obj\Debug\net7.0\ref\Designpattern1.dll
