@@ -1,0 +1,15 @@
+G:\Truenary intern\AbstractionBeplop\AbstractionBeplop\bin\Debug\net7.0\AbstractionBeplop.exe
+G:\Truenary intern\AbstractionBeplop\AbstractionBeplop\bin\Debug\net7.0\AbstractionBeplop.deps.json
+G:\Truenary intern\AbstractionBeplop\AbstractionBeplop\bin\Debug\net7.0\AbstractionBeplop.runtimeconfig.json
+G:\Truenary intern\AbstractionBeplop\AbstractionBeplop\bin\Debug\net7.0\AbstractionBeplop.dll
+G:\Truenary intern\AbstractionBeplop\AbstractionBeplop\bin\Debug\net7.0\AbstractionBeplop.pdb
+G:\Truenary intern\AbstractionBeplop\AbstractionBeplop\obj\Debug\net7.0\AbstractionBeplop.csproj.AssemblyReference.cache
+G:\Truenary intern\AbstractionBeplop\AbstractionBeplop\obj\Debug\net7.0\AbstractionBeplop.GeneratedMSBuildEditorConfig.editorconfig
+G:\Truenary intern\AbstractionBeplop\AbstractionBeplop\obj\Debug\net7.0\AbstractionBeplop.AssemblyInfoInputs.cache
+G:\Truenary intern\AbstractionBeplop\AbstractionBeplop\obj\Debug\net7.0\AbstractionBeplop.AssemblyInfo.cs
+G:\Truenary intern\AbstractionBeplop\AbstractionBeplop\obj\Debug\net7.0\AbstractionBeplop.csproj.CoreCompileInputs.cache
+G:\Truenary intern\AbstractionBeplop\AbstractionBeplop\obj\Debug\net7.0\AbstractionBeplop.dll
+G:\Truenary intern\AbstractionBeplop\AbstractionBeplop\obj\Debug\net7.0\refint\AbstractionBeplop.dll
+G:\Truenary intern\AbstractionBeplop\AbstractionBeplop\obj\Debug\net7.0\AbstractionBeplop.pdb
+G:\Truenary intern\AbstractionBeplop\AbstractionBeplop\obj\Debug\net7.0\AbstractionBeplop.genruntimeconfig.cache
+G:\Truenary intern\AbstractionBeplop\AbstractionBeplop\obj\Debug\net7.0\ref\AbstractionBeplop.dll

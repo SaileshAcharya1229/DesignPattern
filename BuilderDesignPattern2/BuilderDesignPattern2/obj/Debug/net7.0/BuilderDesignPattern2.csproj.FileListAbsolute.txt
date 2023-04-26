@@ -1,0 +1,15 @@
+G:\Truenary intern\.net\BuilderDesignPattern2\BuilderDesignPattern2\obj\Debug\net7.0\BuilderDesignPattern2.csproj.AssemblyReference.cache
+G:\Truenary intern\.net\BuilderDesignPattern2\BuilderDesignPattern2\obj\Debug\net7.0\BuilderDesignPattern2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Truenary intern\.net\BuilderDesignPattern2\BuilderDesignPattern2\obj\Debug\net7.0\BuilderDesignPattern2.AssemblyInfoInputs.cache
+G:\Truenary intern\.net\BuilderDesignPattern2\BuilderDesignPattern2\obj\Debug\net7.0\BuilderDesignPattern2.AssemblyInfo.cs
+G:\Truenary intern\.net\BuilderDesignPattern2\BuilderDesignPattern2\obj\Debug\net7.0\BuilderDesignPattern2.csproj.CoreCompileInputs.cache
+G:\Truenary intern\.net\BuilderDesignPattern2\BuilderDesignPattern2\bin\Debug\net7.0\BuilderDesignPattern2.exe
+G:\Truenary intern\.net\BuilderDesignPattern2\BuilderDesignPattern2\bin\Debug\net7.0\BuilderDesignPattern2.deps.json
+G:\Truenary intern\.net\BuilderDesignPattern2\BuilderDesignPattern2\bin\Debug\net7.0\BuilderDesignPattern2.runtimeconfig.json
+G:\Truenary intern\.net\BuilderDesignPattern2\BuilderDesignPattern2\bin\Debug\net7.0\BuilderDesignPattern2.dll
+G:\Truenary intern\.net\BuilderDesignPattern2\BuilderDesignPattern2\bin\Debug\net7.0\BuilderDesignPattern2.pdb
+G:\Truenary intern\.net\BuilderDesignPattern2\BuilderDesignPattern2\obj\Debug\net7.0\BuilderDesignPattern2.dll
+G:\Truenary intern\.net\BuilderDesignPattern2\BuilderDesignPattern2\obj\Debug\net7.0\refint\BuilderDesignPattern2.dll
+G:\Truenary intern\.net\BuilderDesignPattern2\BuilderDesignPattern2\obj\Debug\net7.0\BuilderDesignPattern2.pdb
+G:\Truenary intern\.net\BuilderDesignPattern2\BuilderDesignPattern2\obj\Debug\net7.0\BuilderDesignPattern2.genruntimeconfig.cache
+G:\Truenary intern\.net\BuilderDesignPattern2\BuilderDesignPattern2\obj\Debug\net7.0\ref\BuilderDesignPattern2.dll

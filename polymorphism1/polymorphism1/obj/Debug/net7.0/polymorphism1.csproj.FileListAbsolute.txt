@@ -1,0 +1,15 @@
+G:\Truenary intern\polymorphism1\polymorphism1\bin\Debug\net7.0\polymorphism1.exe
+G:\Truenary intern\polymorphism1\polymorphism1\bin\Debug\net7.0\polymorphism1.deps.json
+G:\Truenary intern\polymorphism1\polymorphism1\bin\Debug\net7.0\polymorphism1.runtimeconfig.json
+G:\Truenary intern\polymorphism1\polymorphism1\bin\Debug\net7.0\polymorphism1.dll
+G:\Truenary intern\polymorphism1\polymorphism1\bin\Debug\net7.0\polymorphism1.pdb
+G:\Truenary intern\polymorphism1\polymorphism1\obj\Debug\net7.0\polymorphism1.csproj.AssemblyReference.cache
+G:\Truenary intern\polymorphism1\polymorphism1\obj\Debug\net7.0\polymorphism1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Truenary intern\polymorphism1\polymorphism1\obj\Debug\net7.0\polymorphism1.AssemblyInfoInputs.cache
+G:\Truenary intern\polymorphism1\polymorphism1\obj\Debug\net7.0\polymorphism1.AssemblyInfo.cs
+G:\Truenary intern\polymorphism1\polymorphism1\obj\Debug\net7.0\polymorphism1.csproj.CoreCompileInputs.cache
+G:\Truenary intern\polymorphism1\polymorphism1\obj\Debug\net7.0\polymorphism1.dll
+G:\Truenary intern\polymorphism1\polymorphism1\obj\Debug\net7.0\refint\polymorphism1.dll
+G:\Truenary intern\polymorphism1\polymorphism1\obj\Debug\net7.0\polymorphism1.pdb
+G:\Truenary intern\polymorphism1\polymorphism1\obj\Debug\net7.0\polymorphism1.genruntimeconfig.cache
+G:\Truenary intern\polymorphism1\polymorphism1\obj\Debug\net7.0\ref\polymorphism1.dll

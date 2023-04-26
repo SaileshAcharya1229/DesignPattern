@@ -1,0 +1,15 @@
+G:\Truenary intern\topiassignment\topiassignment\bin\Debug\net7.0\topiassignment.exe
+G:\Truenary intern\topiassignment\topiassignment\bin\Debug\net7.0\topiassignment.deps.json
+G:\Truenary intern\topiassignment\topiassignment\bin\Debug\net7.0\topiassignment.runtimeconfig.json
+G:\Truenary intern\topiassignment\topiassignment\bin\Debug\net7.0\topiassignment.dll
+G:\Truenary intern\topiassignment\topiassignment\bin\Debug\net7.0\topiassignment.pdb
+G:\Truenary intern\topiassignment\topiassignment\obj\Debug\net7.0\topiassignment.csproj.AssemblyReference.cache
+G:\Truenary intern\topiassignment\topiassignment\obj\Debug\net7.0\topiassignment.GeneratedMSBuildEditorConfig.editorconfig
+G:\Truenary intern\topiassignment\topiassignment\obj\Debug\net7.0\topiassignment.AssemblyInfoInputs.cache
+G:\Truenary intern\topiassignment\topiassignment\obj\Debug\net7.0\topiassignment.AssemblyInfo.cs
+G:\Truenary intern\topiassignment\topiassignment\obj\Debug\net7.0\topiassignment.csproj.CoreCompileInputs.cache
+G:\Truenary intern\topiassignment\topiassignment\obj\Debug\net7.0\topiassignment.dll
+G:\Truenary intern\topiassignment\topiassignment\obj\Debug\net7.0\refint\topiassignment.dll
+G:\Truenary intern\topiassignment\topiassignment\obj\Debug\net7.0\topiassignment.pdb
+G:\Truenary intern\topiassignment\topiassignment\obj\Debug\net7.0\topiassignment.genruntimeconfig.cache
+G:\Truenary intern\topiassignment\topiassignment\obj\Debug\net7.0\ref\topiassignment.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "topiInheritance/1.0.0": {
+        "runtime": {
+          "topiInheritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "topiInheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

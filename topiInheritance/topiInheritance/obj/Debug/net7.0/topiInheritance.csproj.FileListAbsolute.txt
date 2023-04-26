@@ -1,0 +1,15 @@
+G:\Truenary intern\topiInheritance\topiInheritance\bin\Debug\net7.0\topiInheritance.exe
+G:\Truenary intern\topiInheritance\topiInheritance\bin\Debug\net7.0\topiInheritance.deps.json
+G:\Truenary intern\topiInheritance\topiInheritance\bin\Debug\net7.0\topiInheritance.runtimeconfig.json
+G:\Truenary intern\topiInheritance\topiInheritance\bin\Debug\net7.0\topiInheritance.dll
+G:\Truenary intern\topiInheritance\topiInheritance\bin\Debug\net7.0\topiInheritance.pdb
+G:\Truenary intern\topiInheritance\topiInheritance\obj\Debug\net7.0\topiInheritance.csproj.AssemblyReference.cache
+G:\Truenary intern\topiInheritance\topiInheritance\obj\Debug\net7.0\topiInheritance.GeneratedMSBuildEditorConfig.editorconfig
+G:\Truenary intern\topiInheritance\topiInheritance\obj\Debug\net7.0\topiInheritance.AssemblyInfoInputs.cache
+G:\Truenary intern\topiInheritance\topiInheritance\obj\Debug\net7.0\topiInheritance.AssemblyInfo.cs
+G:\Truenary intern\topiInheritance\topiInheritance\obj\Debug\net7.0\topiInheritance.csproj.CoreCompileInputs.cache
+G:\Truenary intern\topiInheritance\topiInheritance\obj\Debug\net7.0\topiInheritance.dll
+G:\Truenary intern\topiInheritance\topiInheritance\obj\Debug\net7.0\refint\topiInheritance.dll
+G:\Truenary intern\topiInheritance\topiInheritance\obj\Debug\net7.0\topiInheritance.pdb
+G:\Truenary intern\topiInheritance\topiInheritance\obj\Debug\net7.0\topiInheritance.genruntimeconfig.cache
+G:\Truenary intern\topiInheritance\topiInheritance\obj\Debug\net7.0\ref\topiInheritance.dll

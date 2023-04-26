@@ -1,0 +1,15 @@
+G:\Truenary intern\Accessmodifier12\Accessmodifier12\bin\Debug\net7.0\Accessmodifier12.exe
+G:\Truenary intern\Accessmodifier12\Accessmodifier12\bin\Debug\net7.0\Accessmodifier12.deps.json
+G:\Truenary intern\Accessmodifier12\Accessmodifier12\bin\Debug\net7.0\Accessmodifier12.runtimeconfig.json
+G:\Truenary intern\Accessmodifier12\Accessmodifier12\bin\Debug\net7.0\Accessmodifier12.dll
+G:\Truenary intern\Accessmodifier12\Accessmodifier12\bin\Debug\net7.0\Accessmodifier12.pdb
+G:\Truenary intern\Accessmodifier12\Accessmodifier12\obj\Debug\net7.0\Accessmodifier12.csproj.AssemblyReference.cache
+G:\Truenary intern\Accessmodifier12\Accessmodifier12\obj\Debug\net7.0\Accessmodifier12.GeneratedMSBuildEditorConfig.editorconfig
+G:\Truenary intern\Accessmodifier12\Accessmodifier12\obj\Debug\net7.0\Accessmodifier12.AssemblyInfoInputs.cache
+G:\Truenary intern\Accessmodifier12\Accessmodifier12\obj\Debug\net7.0\Accessmodifier12.AssemblyInfo.cs
+G:\Truenary intern\Accessmodifier12\Accessmodifier12\obj\Debug\net7.0\Accessmodifier12.csproj.CoreCompileInputs.cache
+G:\Truenary intern\Accessmodifier12\Accessmodifier12\obj\Debug\net7.0\Accessmodifier12.dll
+G:\Truenary intern\Accessmodifier12\Accessmodifier12\obj\Debug\net7.0\refint\Accessmodifier12.dll
+G:\Truenary intern\Accessmodifier12\Accessmodifier12\obj\Debug\net7.0\Accessmodifier12.pdb
+G:\Truenary intern\Accessmodifier12\Accessmodifier12\obj\Debug\net7.0\Accessmodifier12.genruntimeconfig.cache
+G:\Truenary intern\Accessmodifier12\Accessmodifier12\obj\Debug\net7.0\ref\Accessmodifier12.dll

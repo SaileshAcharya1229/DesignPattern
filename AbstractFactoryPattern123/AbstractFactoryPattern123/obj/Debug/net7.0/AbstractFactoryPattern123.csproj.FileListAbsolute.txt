@@ -1,0 +1,15 @@
+G:\Truenary intern\.net\AbstractFactoryPattern123\AbstractFactoryPattern123\obj\Debug\net7.0\AbstractFactoryPattern123.csproj.AssemblyReference.cache
+G:\Truenary intern\.net\AbstractFactoryPattern123\AbstractFactoryPattern123\obj\Debug\net7.0\AbstractFactoryPattern123.GeneratedMSBuildEditorConfig.editorconfig
+G:\Truenary intern\.net\AbstractFactoryPattern123\AbstractFactoryPattern123\obj\Debug\net7.0\AbstractFactoryPattern123.AssemblyInfoInputs.cache
+G:\Truenary intern\.net\AbstractFactoryPattern123\AbstractFactoryPattern123\obj\Debug\net7.0\AbstractFactoryPattern123.AssemblyInfo.cs
+G:\Truenary intern\.net\AbstractFactoryPattern123\AbstractFactoryPattern123\obj\Debug\net7.0\AbstractFactoryPattern123.csproj.CoreCompileInputs.cache
+G:\Truenary intern\.net\AbstractFactoryPattern123\AbstractFactoryPattern123\bin\Debug\net7.0\AbstractFactoryPattern123.exe
+G:\Truenary intern\.net\AbstractFactoryPattern123\AbstractFactoryPattern123\bin\Debug\net7.0\AbstractFactoryPattern123.deps.json
+G:\Truenary intern\.net\AbstractFactoryPattern123\AbstractFactoryPattern123\bin\Debug\net7.0\AbstractFactoryPattern123.runtimeconfig.json
+G:\Truenary intern\.net\AbstractFactoryPattern123\AbstractFactoryPattern123\bin\Debug\net7.0\AbstractFactoryPattern123.dll
+G:\Truenary intern\.net\AbstractFactoryPattern123\AbstractFactoryPattern123\bin\Debug\net7.0\AbstractFactoryPattern123.pdb
+G:\Truenary intern\.net\AbstractFactoryPattern123\AbstractFactoryPattern123\obj\Debug\net7.0\AbstractFactoryPattern123.dll
+G:\Truenary intern\.net\AbstractFactoryPattern123\AbstractFactoryPattern123\obj\Debug\net7.0\refint\AbstractFactoryPattern123.dll
+G:\Truenary intern\.net\AbstractFactoryPattern123\AbstractFactoryPattern123\obj\Debug\net7.0\AbstractFactoryPattern123.pdb
+G:\Truenary intern\.net\AbstractFactoryPattern123\AbstractFactoryPattern123\obj\Debug\net7.0\AbstractFactoryPattern123.genruntimeconfig.cache
+G:\Truenary intern\.net\AbstractFactoryPattern123\AbstractFactoryPattern123\obj\Debug\net7.0\ref\AbstractFactoryPattern123.dll

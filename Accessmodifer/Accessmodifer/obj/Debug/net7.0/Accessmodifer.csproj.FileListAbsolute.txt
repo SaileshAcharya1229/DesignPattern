@@ -1,0 +1,15 @@
+G:\Truenary intern\Accessmodifer\Accessmodifer\bin\Debug\net7.0\Accessmodifer.exe
+G:\Truenary intern\Accessmodifer\Accessmodifer\bin\Debug\net7.0\Accessmodifer.deps.json
+G:\Truenary intern\Accessmodifer\Accessmodifer\bin\Debug\net7.0\Accessmodifer.runtimeconfig.json
+G:\Truenary intern\Accessmodifer\Accessmodifer\bin\Debug\net7.0\Accessmodifer.dll
+G:\Truenary intern\Accessmodifer\Accessmodifer\bin\Debug\net7.0\Accessmodifer.pdb
+G:\Truenary intern\Accessmodifer\Accessmodifer\obj\Debug\net7.0\Accessmodifer.csproj.AssemblyReference.cache
+G:\Truenary intern\Accessmodifer\Accessmodifer\obj\Debug\net7.0\Accessmodifer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Truenary intern\Accessmodifer\Accessmodifer\obj\Debug\net7.0\Accessmodifer.AssemblyInfoInputs.cache
+G:\Truenary intern\Accessmodifer\Accessmodifer\obj\Debug\net7.0\Accessmodifer.AssemblyInfo.cs
+G:\Truenary intern\Accessmodifer\Accessmodifer\obj\Debug\net7.0\Accessmodifer.csproj.CoreCompileInputs.cache
+G:\Truenary intern\Accessmodifer\Accessmodifer\obj\Debug\net7.0\Accessmodifer.dll
+G:\Truenary intern\Accessmodifer\Accessmodifer\obj\Debug\net7.0\refint\Accessmodifer.dll
+G:\Truenary intern\Accessmodifer\Accessmodifer\obj\Debug\net7.0\Accessmodifer.pdb
+G:\Truenary intern\Accessmodifer\Accessmodifer\obj\Debug\net7.0\Accessmodifer.genruntimeconfig.cache
+G:\Truenary intern\Accessmodifer\Accessmodifer\obj\Debug\net7.0\ref\Accessmodifer.dll

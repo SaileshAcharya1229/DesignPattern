@@ -1,0 +1,15 @@
+G:\Truenary intern\.net\SingletonPattern1\SingletonPattern1\obj\Debug\net7.0\SingletonPattern1.csproj.AssemblyReference.cache
+G:\Truenary intern\.net\SingletonPattern1\SingletonPattern1\obj\Debug\net7.0\SingletonPattern1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Truenary intern\.net\SingletonPattern1\SingletonPattern1\obj\Debug\net7.0\SingletonPattern1.AssemblyInfoInputs.cache
+G:\Truenary intern\.net\SingletonPattern1\SingletonPattern1\obj\Debug\net7.0\SingletonPattern1.AssemblyInfo.cs
+G:\Truenary intern\.net\SingletonPattern1\SingletonPattern1\obj\Debug\net7.0\SingletonPattern1.csproj.CoreCompileInputs.cache
+G:\Truenary intern\.net\SingletonPattern1\SingletonPattern1\bin\Debug\net7.0\SingletonPattern1.exe
+G:\Truenary intern\.net\SingletonPattern1\SingletonPattern1\bin\Debug\net7.0\SingletonPattern1.deps.json
+G:\Truenary intern\.net\SingletonPattern1\SingletonPattern1\bin\Debug\net7.0\SingletonPattern1.runtimeconfig.json
+G:\Truenary intern\.net\SingletonPattern1\SingletonPattern1\bin\Debug\net7.0\SingletonPattern1.dll
+G:\Truenary intern\.net\SingletonPattern1\SingletonPattern1\bin\Debug\net7.0\SingletonPattern1.pdb
+G:\Truenary intern\.net\SingletonPattern1\SingletonPattern1\obj\Debug\net7.0\SingletonPattern1.dll
+G:\Truenary intern\.net\SingletonPattern1\SingletonPattern1\obj\Debug\net7.0\refint\SingletonPattern1.dll
+G:\Truenary intern\.net\SingletonPattern1\SingletonPattern1\obj\Debug\net7.0\SingletonPattern1.pdb
+G:\Truenary intern\.net\SingletonPattern1\SingletonPattern1\obj\Debug\net7.0\SingletonPattern1.genruntimeconfig.cache
+G:\Truenary intern\.net\SingletonPattern1\SingletonPattern1\obj\Debug\net7.0\ref\SingletonPattern1.dll

@@ -1,0 +1,15 @@
+G:\Truenary intern\.net\AbstractDesignPatternExample\AbstractDesignPatternExample\bin\Debug\net7.0\AbstractDesignPatternExample.exe
+G:\Truenary intern\.net\AbstractDesignPatternExample\AbstractDesignPatternExample\bin\Debug\net7.0\AbstractDesignPatternExample.deps.json
+G:\Truenary intern\.net\AbstractDesignPatternExample\AbstractDesignPatternExample\bin\Debug\net7.0\AbstractDesignPatternExample.runtimeconfig.json
+G:\Truenary intern\.net\AbstractDesignPatternExample\AbstractDesignPatternExample\bin\Debug\net7.0\AbstractDesignPatternExample.dll
+G:\Truenary intern\.net\AbstractDesignPatternExample\AbstractDesignPatternExample\bin\Debug\net7.0\AbstractDesignPatternExample.pdb
+G:\Truenary intern\.net\AbstractDesignPatternExample\AbstractDesignPatternExample\obj\Debug\net7.0\AbstractDesignPatternExample.csproj.AssemblyReference.cache
+G:\Truenary intern\.net\AbstractDesignPatternExample\AbstractDesignPatternExample\obj\Debug\net7.0\AbstractDesignPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+G:\Truenary intern\.net\AbstractDesignPatternExample\AbstractDesignPatternExample\obj\Debug\net7.0\AbstractDesignPatternExample.AssemblyInfoInputs.cache
+G:\Truenary intern\.net\AbstractDesignPatternExample\AbstractDesignPatternExample\obj\Debug\net7.0\AbstractDesignPatternExample.AssemblyInfo.cs
+G:\Truenary intern\.net\AbstractDesignPatternExample\AbstractDesignPatternExample\obj\Debug\net7.0\AbstractDesignPatternExample.csproj.CoreCompileInputs.cache
+G:\Truenary intern\.net\AbstractDesignPatternExample\AbstractDesignPatternExample\obj\Debug\net7.0\AbstractDesignPatternExample.dll
+G:\Truenary intern\.net\AbstractDesignPatternExample\AbstractDesignPatternExample\obj\Debug\net7.0\refint\AbstractDesignPatternExample.dll
+G:\Truenary intern\.net\AbstractDesignPatternExample\AbstractDesignPatternExample\obj\Debug\net7.0\AbstractDesignPatternExample.pdb
+G:\Truenary intern\.net\AbstractDesignPatternExample\AbstractDesignPatternExample\obj\Debug\net7.0\AbstractDesignPatternExample.genruntimeconfig.cache
+G:\Truenary intern\.net\AbstractDesignPatternExample\AbstractDesignPatternExample\obj\Debug\net7.0\ref\AbstractDesignPatternExample.dll

@@ -1,0 +1,15 @@
+G:\Truenary intern\listGeneric\listGeneric\obj\Debug\net7.0\listGeneric.csproj.AssemblyReference.cache
+G:\Truenary intern\listGeneric\listGeneric\obj\Debug\net7.0\listGeneric.GeneratedMSBuildEditorConfig.editorconfig
+G:\Truenary intern\listGeneric\listGeneric\obj\Debug\net7.0\listGeneric.AssemblyInfoInputs.cache
+G:\Truenary intern\listGeneric\listGeneric\obj\Debug\net7.0\listGeneric.AssemblyInfo.cs
+G:\Truenary intern\listGeneric\listGeneric\obj\Debug\net7.0\listGeneric.csproj.CoreCompileInputs.cache
+G:\Truenary intern\listGeneric\listGeneric\bin\Debug\net7.0\listGeneric.exe
+G:\Truenary intern\listGeneric\listGeneric\bin\Debug\net7.0\listGeneric.deps.json
+G:\Truenary intern\listGeneric\listGeneric\bin\Debug\net7.0\listGeneric.runtimeconfig.json
+G:\Truenary intern\listGeneric\listGeneric\bin\Debug\net7.0\listGeneric.dll
+G:\Truenary intern\listGeneric\listGeneric\bin\Debug\net7.0\listGeneric.pdb
+G:\Truenary intern\listGeneric\listGeneric\obj\Debug\net7.0\listGeneric.dll
+G:\Truenary intern\listGeneric\listGeneric\obj\Debug\net7.0\refint\listGeneric.dll
+G:\Truenary intern\listGeneric\listGeneric\obj\Debug\net7.0\listGeneric.pdb
+G:\Truenary intern\listGeneric\listGeneric\obj\Debug\net7.0\listGeneric.genruntimeconfig.cache
+G:\Truenary intern\listGeneric\listGeneric\obj\Debug\net7.0\ref\listGeneric.dll

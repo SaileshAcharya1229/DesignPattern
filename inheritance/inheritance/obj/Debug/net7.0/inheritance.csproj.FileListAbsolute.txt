@@ -1,0 +1,15 @@
+G:\Truenary intern\inheritance\inheritance\bin\Debug\net7.0\inheritance.exe
+G:\Truenary intern\inheritance\inheritance\bin\Debug\net7.0\inheritance.deps.json
+G:\Truenary intern\inheritance\inheritance\bin\Debug\net7.0\inheritance.runtimeconfig.json
+G:\Truenary intern\inheritance\inheritance\bin\Debug\net7.0\inheritance.dll
+G:\Truenary intern\inheritance\inheritance\bin\Debug\net7.0\inheritance.pdb
+G:\Truenary intern\inheritance\inheritance\obj\Debug\net7.0\inheritance.csproj.AssemblyReference.cache
+G:\Truenary intern\inheritance\inheritance\obj\Debug\net7.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+G:\Truenary intern\inheritance\inheritance\obj\Debug\net7.0\inheritance.AssemblyInfoInputs.cache
+G:\Truenary intern\inheritance\inheritance\obj\Debug\net7.0\inheritance.AssemblyInfo.cs
+G:\Truenary intern\inheritance\inheritance\obj\Debug\net7.0\inheritance.csproj.CoreCompileInputs.cache
+G:\Truenary intern\inheritance\inheritance\obj\Debug\net7.0\inheritance.dll
+G:\Truenary intern\inheritance\inheritance\obj\Debug\net7.0\refint\inheritance.dll
+G:\Truenary intern\inheritance\inheritance\obj\Debug\net7.0\inheritance.pdb
+G:\Truenary intern\inheritance\inheritance\obj\Debug\net7.0\inheritance.genruntimeconfig.cache
+G:\Truenary intern\inheritance\inheritance\obj\Debug\net7.0\ref\inheritance.dll

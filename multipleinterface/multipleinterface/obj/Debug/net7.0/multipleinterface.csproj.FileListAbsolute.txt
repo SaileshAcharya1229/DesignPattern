@@ -1,0 +1,15 @@
+G:\Truenary intern\multipleinterface\multipleinterface\bin\Debug\net7.0\multipleinterface.exe
+G:\Truenary intern\multipleinterface\multipleinterface\bin\Debug\net7.0\multipleinterface.deps.json
+G:\Truenary intern\multipleinterface\multipleinterface\bin\Debug\net7.0\multipleinterface.runtimeconfig.json
+G:\Truenary intern\multipleinterface\multipleinterface\bin\Debug\net7.0\multipleinterface.dll
+G:\Truenary intern\multipleinterface\multipleinterface\bin\Debug\net7.0\multipleinterface.pdb
+G:\Truenary intern\multipleinterface\multipleinterface\obj\Debug\net7.0\multipleinterface.csproj.AssemblyReference.cache
+G:\Truenary intern\multipleinterface\multipleinterface\obj\Debug\net7.0\multipleinterface.GeneratedMSBuildEditorConfig.editorconfig
+G:\Truenary intern\multipleinterface\multipleinterface\obj\Debug\net7.0\multipleinterface.AssemblyInfoInputs.cache
+G:\Truenary intern\multipleinterface\multipleinterface\obj\Debug\net7.0\multipleinterface.AssemblyInfo.cs
+G:\Truenary intern\multipleinterface\multipleinterface\obj\Debug\net7.0\multipleinterface.csproj.CoreCompileInputs.cache
+G:\Truenary intern\multipleinterface\multipleinterface\obj\Debug\net7.0\multipleinterface.dll
+G:\Truenary intern\multipleinterface\multipleinterface\obj\Debug\net7.0\refint\multipleinterface.dll
+G:\Truenary intern\multipleinterface\multipleinterface\obj\Debug\net7.0\multipleinterface.pdb
+G:\Truenary intern\multipleinterface\multipleinterface\obj\Debug\net7.0\multipleinterface.genruntimeconfig.cache
+G:\Truenary intern\multipleinterface\multipleinterface\obj\Debug\net7.0\ref\multipleinterface.dll

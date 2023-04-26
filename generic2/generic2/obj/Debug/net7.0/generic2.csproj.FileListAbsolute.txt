@@ -1,0 +1,15 @@
+G:\Truenary intern\generic2\generic2\bin\Debug\net7.0\generic2.exe
+G:\Truenary intern\generic2\generic2\bin\Debug\net7.0\generic2.deps.json
+G:\Truenary intern\generic2\generic2\bin\Debug\net7.0\generic2.runtimeconfig.json
+G:\Truenary intern\generic2\generic2\bin\Debug\net7.0\generic2.dll
+G:\Truenary intern\generic2\generic2\bin\Debug\net7.0\generic2.pdb
+G:\Truenary intern\generic2\generic2\obj\Debug\net7.0\generic2.csproj.AssemblyReference.cache
+G:\Truenary intern\generic2\generic2\obj\Debug\net7.0\generic2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Truenary intern\generic2\generic2\obj\Debug\net7.0\generic2.AssemblyInfoInputs.cache
+G:\Truenary intern\generic2\generic2\obj\Debug\net7.0\generic2.AssemblyInfo.cs
+G:\Truenary intern\generic2\generic2\obj\Debug\net7.0\generic2.csproj.CoreCompileInputs.cache
+G:\Truenary intern\generic2\generic2\obj\Debug\net7.0\generic2.dll
+G:\Truenary intern\generic2\generic2\obj\Debug\net7.0\refint\generic2.dll
+G:\Truenary intern\generic2\generic2\obj\Debug\net7.0\generic2.pdb
+G:\Truenary intern\generic2\generic2\obj\Debug\net7.0\generic2.genruntimeconfig.cache
+G:\Truenary intern\generic2\generic2\obj\Debug\net7.0\ref\generic2.dll

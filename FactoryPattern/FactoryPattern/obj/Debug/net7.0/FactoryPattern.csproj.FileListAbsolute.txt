@@ -1,0 +1,15 @@
+G:\Truenary intern\FactoryPattern\FactoryPattern\bin\Debug\net7.0\FactoryPattern.exe
+G:\Truenary intern\FactoryPattern\FactoryPattern\bin\Debug\net7.0\FactoryPattern.deps.json
+G:\Truenary intern\FactoryPattern\FactoryPattern\bin\Debug\net7.0\FactoryPattern.runtimeconfig.json
+G:\Truenary intern\FactoryPattern\FactoryPattern\bin\Debug\net7.0\FactoryPattern.dll
+G:\Truenary intern\FactoryPattern\FactoryPattern\bin\Debug\net7.0\FactoryPattern.pdb
+G:\Truenary intern\FactoryPattern\FactoryPattern\obj\Debug\net7.0\FactoryPattern.csproj.AssemblyReference.cache
+G:\Truenary intern\FactoryPattern\FactoryPattern\obj\Debug\net7.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\Truenary intern\FactoryPattern\FactoryPattern\obj\Debug\net7.0\FactoryPattern.AssemblyInfoInputs.cache
+G:\Truenary intern\FactoryPattern\FactoryPattern\obj\Debug\net7.0\FactoryPattern.AssemblyInfo.cs
+G:\Truenary intern\FactoryPattern\FactoryPattern\obj\Debug\net7.0\FactoryPattern.csproj.CoreCompileInputs.cache
+G:\Truenary intern\FactoryPattern\FactoryPattern\obj\Debug\net7.0\FactoryPattern.dll
+G:\Truenary intern\FactoryPattern\FactoryPattern\obj\Debug\net7.0\refint\FactoryPattern.dll
+G:\Truenary intern\FactoryPattern\FactoryPattern\obj\Debug\net7.0\FactoryPattern.pdb
+G:\Truenary intern\FactoryPattern\FactoryPattern\obj\Debug\net7.0\FactoryPattern.genruntimeconfig.cache
+G:\Truenary intern\FactoryPattern\FactoryPattern\obj\Debug\net7.0\ref\FactoryPattern.dll

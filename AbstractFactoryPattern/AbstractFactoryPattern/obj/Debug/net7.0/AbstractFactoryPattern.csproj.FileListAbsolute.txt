@@ -1,0 +1,15 @@
+G:\Truenary intern\.net\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net7.0\AbstractFactoryPattern.exe
+G:\Truenary intern\.net\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net7.0\AbstractFactoryPattern.deps.json
+G:\Truenary intern\.net\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net7.0\AbstractFactoryPattern.runtimeconfig.json
+G:\Truenary intern\.net\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net7.0\AbstractFactoryPattern.dll
+G:\Truenary intern\.net\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net7.0\AbstractFactoryPattern.pdb
+G:\Truenary intern\.net\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net7.0\AbstractFactoryPattern.csproj.AssemblyReference.cache
+G:\Truenary intern\.net\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net7.0\AbstractFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\Truenary intern\.net\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net7.0\AbstractFactoryPattern.AssemblyInfoInputs.cache
+G:\Truenary intern\.net\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net7.0\AbstractFactoryPattern.AssemblyInfo.cs
+G:\Truenary intern\.net\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net7.0\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+G:\Truenary intern\.net\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net7.0\AbstractFactoryPattern.dll
+G:\Truenary intern\.net\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net7.0\refint\AbstractFactoryPattern.dll
+G:\Truenary intern\.net\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net7.0\AbstractFactoryPattern.pdb
+G:\Truenary intern\.net\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net7.0\AbstractFactoryPattern.genruntimeconfig.cache
+G:\Truenary intern\.net\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net7.0\ref\AbstractFactoryPattern.dll
