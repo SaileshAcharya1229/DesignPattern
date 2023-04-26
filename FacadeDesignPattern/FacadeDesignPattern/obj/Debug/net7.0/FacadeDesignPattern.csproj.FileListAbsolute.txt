@@ -1,0 +1,15 @@
+G:\Truenary intern\.net\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\net7.0\FacadeDesignPattern.exe
+G:\Truenary intern\.net\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\net7.0\FacadeDesignPattern.deps.json
+G:\Truenary intern\.net\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\net7.0\FacadeDesignPattern.runtimeconfig.json
+G:\Truenary intern\.net\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\net7.0\FacadeDesignPattern.dll
+G:\Truenary intern\.net\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\net7.0\FacadeDesignPattern.pdb
+G:\Truenary intern\.net\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net7.0\FacadeDesignPattern.csproj.AssemblyReference.cache
+G:\Truenary intern\.net\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net7.0\FacadeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\Truenary intern\.net\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net7.0\FacadeDesignPattern.AssemblyInfoInputs.cache
+G:\Truenary intern\.net\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net7.0\FacadeDesignPattern.AssemblyInfo.cs
+G:\Truenary intern\.net\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net7.0\FacadeDesignPattern.csproj.CoreCompileInputs.cache
+G:\Truenary intern\.net\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net7.0\FacadeDesignPattern.dll
+G:\Truenary intern\.net\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net7.0\refint\FacadeDesignPattern.dll
+G:\Truenary intern\.net\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net7.0\FacadeDesignPattern.pdb
+G:\Truenary intern\.net\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net7.0\FacadeDesignPattern.genruntimeconfig.cache
+G:\Truenary intern\.net\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net7.0\ref\FacadeDesignPattern.dll
