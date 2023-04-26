@@ -1,0 +1,15 @@
+G:\Truenary intern\.net\DecoratorDesignPattern1\DecoratorDesignPattern1\bin\Debug\net7.0\DecoratorDesignPattern1.exe
+G:\Truenary intern\.net\DecoratorDesignPattern1\DecoratorDesignPattern1\bin\Debug\net7.0\DecoratorDesignPattern1.deps.json
+G:\Truenary intern\.net\DecoratorDesignPattern1\DecoratorDesignPattern1\bin\Debug\net7.0\DecoratorDesignPattern1.runtimeconfig.json
+G:\Truenary intern\.net\DecoratorDesignPattern1\DecoratorDesignPattern1\bin\Debug\net7.0\DecoratorDesignPattern1.dll
+G:\Truenary intern\.net\DecoratorDesignPattern1\DecoratorDesignPattern1\bin\Debug\net7.0\DecoratorDesignPattern1.pdb
+G:\Truenary intern\.net\DecoratorDesignPattern1\DecoratorDesignPattern1\obj\Debug\net7.0\DecoratorDesignPattern1.csproj.AssemblyReference.cache
+G:\Truenary intern\.net\DecoratorDesignPattern1\DecoratorDesignPattern1\obj\Debug\net7.0\DecoratorDesignPattern1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Truenary intern\.net\DecoratorDesignPattern1\DecoratorDesignPattern1\obj\Debug\net7.0\DecoratorDesignPattern1.AssemblyInfoInputs.cache
+G:\Truenary intern\.net\DecoratorDesignPattern1\DecoratorDesignPattern1\obj\Debug\net7.0\DecoratorDesignPattern1.AssemblyInfo.cs
+G:\Truenary intern\.net\DecoratorDesignPattern1\DecoratorDesignPattern1\obj\Debug\net7.0\DecoratorDesignPattern1.csproj.CoreCompileInputs.cache
+G:\Truenary intern\.net\DecoratorDesignPattern1\DecoratorDesignPattern1\obj\Debug\net7.0\DecoratorDesignPattern1.dll
+G:\Truenary intern\.net\DecoratorDesignPattern1\DecoratorDesignPattern1\obj\Debug\net7.0\refint\DecoratorDesignPattern1.dll
+G:\Truenary intern\.net\DecoratorDesignPattern1\DecoratorDesignPattern1\obj\Debug\net7.0\DecoratorDesignPattern1.pdb
+G:\Truenary intern\.net\DecoratorDesignPattern1\DecoratorDesignPattern1\obj\Debug\net7.0\DecoratorDesignPattern1.genruntimeconfig.cache
+G:\Truenary intern\.net\DecoratorDesignPattern1\DecoratorDesignPattern1\obj\Debug\net7.0\ref\DecoratorDesignPattern1.dll
