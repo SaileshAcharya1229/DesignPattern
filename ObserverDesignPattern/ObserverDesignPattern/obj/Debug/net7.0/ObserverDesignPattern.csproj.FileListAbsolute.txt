@@ -1,0 +1,15 @@
+G:\Truenary intern\.net\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\net7.0\ObserverDesignPattern.exe
+G:\Truenary intern\.net\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\net7.0\ObserverDesignPattern.deps.json
+G:\Truenary intern\.net\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\net7.0\ObserverDesignPattern.runtimeconfig.json
+G:\Truenary intern\.net\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\net7.0\ObserverDesignPattern.dll
+G:\Truenary intern\.net\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\net7.0\ObserverDesignPattern.pdb
+G:\Truenary intern\.net\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net7.0\ObserverDesignPattern.csproj.AssemblyReference.cache
+G:\Truenary intern\.net\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net7.0\ObserverDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\Truenary intern\.net\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net7.0\ObserverDesignPattern.AssemblyInfoInputs.cache
+G:\Truenary intern\.net\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net7.0\ObserverDesignPattern.AssemblyInfo.cs
+G:\Truenary intern\.net\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net7.0\ObserverDesignPattern.csproj.CoreCompileInputs.cache
+G:\Truenary intern\.net\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net7.0\ObserverDesignPattern.dll
+G:\Truenary intern\.net\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net7.0\refint\ObserverDesignPattern.dll
+G:\Truenary intern\.net\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net7.0\ObserverDesignPattern.pdb
+G:\Truenary intern\.net\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net7.0\ObserverDesignPattern.genruntimeconfig.cache
+G:\Truenary intern\.net\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net7.0\ref\ObserverDesignPattern.dll
